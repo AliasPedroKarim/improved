@@ -1,3 +1,40 @@
 {
-  "areas": {}
+  "areas": {
+    "Lobby Server": {
+      "icon_asset": "lobby_server"
+    },
+    "Creative Server": {
+      "icon_asset": "creative_server"
+    },
+    "Faction Server": {
+      "icon_asset": "faction_server"
+    },
+    "Research And Dev Server": {
+      "icon_asset": "dev_server"
+    }
+  },
+  "blocks": {
+    "plant_box": {
+      "intractable": true,
+      "state": {
+        "instrument": "BANJO",
+        "note": 12,
+        "powered": false
+      }
+    }
+  },
+  "grades": {
+    "Admin": {
+      "text": "\uA401",
+      "staff": true
+    },
+    "Modo": {
+      "text": "\uA465",
+      "staff": true
+    },
+    "Builder": {
+      "text": "\uA403",
+      "staff": true
+    }
+  }
 }
