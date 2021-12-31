@@ -1,16 +1,16 @@
 {
   "areas": {
     "Lobby Server": {
-      "icon_asset": "lobby_server"
+      "assetIcon": "lobby_server"
     },
     "Creative Server": {
-      "icon_asset": "creative_server"
+      "assetIcon": "creative_server"
     },
     "Faction Server": {
-      "icon_asset": "faction_server"
+      "assetIcon": "faction_server"
     },
     "Research And Dev Server": {
-      "icon_asset": "dev_server"
+      "assetIcon": "dev_server"
     }
   },
   "blocks": {
