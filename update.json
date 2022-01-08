@@ -1,10 +1,11 @@
 {
   "homepage": "https://enderium.me/",
   "1.18.1": {
-        "0.0.1": "Je sais pas trop..."
+        "0.0.1": "Je sais pas trop...",
+        "0.0.2": "Ah !!! peut être..."
   },
   "promos": {
-        "1.18.1-latest": "0.0.1",
-        "1.18.1-recommended": "0.0.1"
+        "1.17.1-latest": "0.0.2",
+        "1.17.1-recommended": "0.0.1"
     }
 }
